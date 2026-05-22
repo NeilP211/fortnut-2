@@ -10,9 +10,7 @@
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
 <p align="center">
-  <img src=".github/media/fortnut2-hero.jpg" alt="Fortnut 2 in-game death / respawn screen with live score" width="680">
-  <br>
-  <sub><i>Actual in-game screenshot — the death screen, with live score, respawn, and title-screen flow.</i></sub>
+  <img src=".github/media/fortnut2-hero.jpg" alt="Fortnut 2 banner art" width="680">
 </p>
 
 **Fortnut 2** is a first-person shooter I designed, coded, modeled, and published
@@ -24,7 +22,7 @@ around in Unity and ended as a real, downloadable game that strangers could play
 
 ## 🎮 Play it
 
-▶ **[Download / play on GameJolt](https://gamejolt.com/games/fortnut2/551302)** — no Unity install required.
+▶ **[Download on GameJolt](https://gamejolt.com/games/fortnut2/551302)** — standalone **Windows** build (no Unity install needed).
 
 ## 🛠️ What's actually under the hood
 
