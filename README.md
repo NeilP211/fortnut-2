@@ -46,4 +46,4 @@ git clone https://github.com/NeilP211/fortnut-2.git
 2. Load `Assets/Scenes/SampleScene.unity` (or `Assets/QS/Scenes/main.unity`).
 3. Press **Play**.
 
-> **Heads up:** this repo ships its full asset library (skyboxes, weapon packs, `.blend` files), so it's a chunky clone. It's the complete, buildable project, exactly as released.
+> **Heads up:** this repo ships its full asset library (skyboxes, weapon packs, `.blend` files), so it's a chunky clone. 
