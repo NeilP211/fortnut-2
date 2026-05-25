@@ -1,7 +1,6 @@
 # FORTNUT 2 🌰🔥
 
-> The realest shooter with the dankest MLG twists.
-> A Fortnite parody I built solo in Unity. And yeah, I actually shipped it.
+> Top 1 game of all time
 
 [![▶ Play on GameJolt](https://img.shields.io/badge/▶%20Play%20on-GameJolt-CCFF00?style=for-the-badge)](https://gamejolt.com/games/fortnut2/551302)
 &nbsp;
